@@ -23,7 +23,7 @@ Built to understand — end to end — how modern RAG (Retrieval Augmented Gener
 
 ## Architecture
 
-```
+```diagram
 ┌─────────────────────────────────────────────────────────────┐
 │                        Next.js app                            │
 │  ┌───────────────┐  ┌────────────────┐  ┌─────────────────┐  │
