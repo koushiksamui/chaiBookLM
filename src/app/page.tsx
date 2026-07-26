@@ -1,7 +1,5 @@
+import { redirect } from 'next/navigation';
 
-
-export default async function Page() {
-  return (
-    <div>Hello World</div>
-  )
-}
+export default function Page() {
+  redirect('/notebooks');
+}
