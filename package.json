@@ -12,6 +12,7 @@
     "@ai-sdk/openai": "^4.0.20",
     "@supabase/ssr": "^0.12.3",
     "@supabase/supabase-js": "^2.110.8",
+    "@vercel/analytics": "^2.0.1",
     "ai": "^7.0.37",
     "js-tiktoken": "^1.0.21",
     "next": "16.2.11",
